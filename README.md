@@ -3,8 +3,7 @@ AI Builder | Researcher | Human-Centered Technologist
 
 I build with a focus on agentic AI systems and human-in-the-loop workflows, while using data insight to understand why we're building and how to create real value. My work bridges cutting-edge AI capabilities with thoughtful human-centered design, drawing from years of experience in data science, machine learning and human factors.
 
-🚀 What I'm Building
-Active Projects:
+🚀 What I'm Building, Active Projects:
 
 🌐 <a href="https://projnanda.github.io/projnanda/#/"> MIT Project NANDA </a>: Architecting the Internet of AI Agents -  mapping agentic protocols and developments, ecosystem building for the web3 quilt <br>
 🤖 Shipping AI prototypes every Sunday with <a href ="https://www.sundai.club/">Sundai Club</a> (MIT/Harvard builder community) <br>
@@ -30,9 +29,7 @@ Rapid prototyping to validate ideas quickly <br>
 Ecosystem Building: Connecting communities at the frontier of AI <br>
 Responsible AI: Tech stewardship, ethics, and safety considerations in AI deployment <br>
 
-🎯 Philosophy
+🎯 Philosophy<br>
 I believe the future of AI isn't just about raw capability — I am excited about human augmentation and co-creation with AI <br>
 
-📫 Let's Connect
-
-💼 Open to collaborations 
+💼 <b> Open to collaborations </b>
