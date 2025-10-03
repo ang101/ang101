@@ -7,7 +7,7 @@ I build with a focus on agentic AI systems and human-in-the-loop workflows, whil
 
 🌐 <a href="https://projnanda.github.io/projnanda/#/"> MIT Project NANDA </a>: Architecting the Internet of AI Agents -  mapping agentic protocols and developments, steering group member and ecosystem building for the web3 quilt <br>
 🤖 Shipping AI prototypes every Sunday with <a href ="https://www.sundai.club/">Sundai Club</a> (MIT/Harvard builder community) <br>
-🔗 To see my work, also check out my <a href="https://www.sundai.club/hacker/c21d887b-582a-4f03-b9ad-5e4fda68faf7"> Sundai Club Profile </a> and <a href="https://scholar.google.com/citations?user=p1WOBkoAAAAJ&hl=en"> Google Scholar Profile </a>
+🔗 To see my work, also check out my <a href="https://www.sundai.club/hacker/c21d887b-582a-4f03-b9ad-5e4fda68faf7"> Sundai Club Profile </a> and <a href="https://scholar.google.com/citations?user=p1WOBkoAAAAJ&hl=en"> Google Scholar Profile </a><br>
 🎓  Supporting <a href="https://www.venture-lab.ai/"> INSEAD AI Venture Lab's AI Founder Sprint</a> 6-week AI Tools & Rapid Prototyping section for 300+ global AI startup founders (via Sundai Club teaching team) <br>
 📊 Evaluating Machine Learning and Data Science implementations as Capstone Grader at Harvard University <br>
 
